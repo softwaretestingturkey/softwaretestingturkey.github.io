@@ -3,7 +3,7 @@ layout: post
 title: İyi Bir Test Uzmanı Nasıl Olmalıdır ?
 tags: [etkinlik]
 published: true
-bigimg: /img/etkinlik.jpg
+bigimg: /img/etkinlik.jpeg
 comments: true
 ---
 
