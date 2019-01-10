@@ -17,18 +17,16 @@ baseurl: ""
 title: Software Testing Turkey
 
 # Short description of your site
-description: Software Testing Alanında Yetkin Kişiler ve Etkinlikler.
+description: Yazılım Test ve Otomasyon Alanında Yetkin Kişiler ve Etkinlikler.
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  Hakkımızda: "hakkimizda"
+  Kaynaklar:
+    - Slack: "https://softwaretestingturkey.slack.com"
+    - Facebook Grubu: "https://www.facebook.com/groups/752817645091302/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -72,10 +70,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+  email: "sinan@softwaretestingturkey.com"
+  facebook: groups/752817645091302/
+  github: softwaretestingturkey
+#  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -99,7 +97,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "Software Testing Turkey"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -107,7 +105,7 @@ url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-132196111-1"
 
 # Google Tag Manager ID
 #gtm: ""
