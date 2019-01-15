@@ -2,29 +2,30 @@
 layout: post
 title: Test ve otomasyon için kullanılan araçlar nelerdir ?
 tags: [etkinlik]
-published: false
+published: true
 bigimg: /img/etkinlik.jpeg
 comments: true
 ---
-
+15 Ocak 2019 Salı günü [Trendyol](http://www.trendyol.com "Trendyol") ofisinde [Sinan Erdinç](https://www.linkedin.com/in/sinanerdinc/ "Sinan Erdinç") moderatörlüğünde 3. Software Testing Turkey etkinliği için toplandık. Üzerinde tartıştığımız konular şöyleydi.
 
 ## Test ve otomasyon için kullanılan araçlar
+Etkinliğe gelen ziyaretçilerin tecrübe ettiği araçları şöyle sıraladık.
+
 |Api| Ui  | Performans | Mobil | Continues Integration
 |--|--|--|--|--|
-|Chakram  | Selenium |  |  |  |
-|Postman  | Robot Framework  |  |  |  |
-|SoupUI  | Silk Central  |  |  |  |
-|Robot Framework  | Ranorex |  |  |  |
+|Chakram  | Selenium | Jmeter  | Appium | Jenkins  |
+|Postman  | Robot Framework  | Locust  | Espresso | Teamcity |
+|SoupUI  | Silk Central  | Gatling  | XCUITest |  |
+|Robot Framework  | Ranorex | Loading | Calabash  |  |
 |REST Assured  | OWASP  |  |  |  |
 |Swagger  |Serenity BDD  |  |  |  |
 |  |Katalon Studio  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+|  | QTP/UFT |  |  |  |
+|  | Galen  |  |  |  |
+|  | Capybara |  |  |  |
+|  | Gauge |  |  |  |
+|  | Cucumber |  |  |  |
+
 
 ## İyi bir test & otomasyon aracının özellikleri nelerdir?
 
@@ -35,6 +36,8 @@ comments: true
 - İşletim sistemlerinden bağımsız, programlama dillerine desteği geniş olmalı.
 
 ## Verimli bir workshop için neler gereklidir?
+Planlayacağımız workshop organizasyonlarının verimini nasıl arttırabiliriz.
+
 - Haftasonu yapılmalı.
 - Saat 13:00 - 16:00 + X  saatleri arasında yapılmalı.
 - Mekan konusunda bir uzlaşma sağlayamadık. Tüm katılımcılar bu konuda araştırma yapacaklar.
