@@ -10,7 +10,7 @@ bigimg: /img/etkinlik.jpeg
 share-img: /img/etkinlik.jpeg
 comments: true
 ---
-15 Ocak 2019 Salı günü [Trendyol](http://www.trendyol.com "Trendyol") ofisinde [Sinan Erdinç](https://www.linkedin.com/in/sinanerdinc/ "Sinan Erdinç") moderatörlüğünde 3. Software Testing Turkey etkinliği için toplandık. Üzerinde tartıştığımız konular şöyleydi.
+15 Ocak 2019 Salı günü [Trendyol](http://www.trendyol.com "Trendyol") ofisinde [Sinan Erdinç](https://www.sinanerdinc.com "Sinan Erdinç") moderatörlüğünde 3. Software Testing Turkey etkinliği için toplandık. Üzerinde tartıştığımız konular şöyleydi.
 
 ## Test ve otomasyon için kullanılan araçlar
 Etkinliğe gelen ziyaretçilerin tecrübe ettiği araçları şöyle sıraladık.
