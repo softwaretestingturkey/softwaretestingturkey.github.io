@@ -1,0 +1,45 @@
+---
+layout: post
+title: Test ve otomasyon için kullanılan araçlar nelerdir ?
+tags: [etkinlik]
+published: false
+bigimg: /img/etkinlik.jpeg
+comments: true
+---
+
+
+## Test ve otomasyon için kullanılan araçlar
+|Api| Ui  | Performans | Mobil | Continues Integration
+|--|--|--|--|--|
+|Chakram  | Selenium |  |  |  |
+|Postman  | Robot Framework  |  |  |  |
+|SoupUI  | Silk Central  |  |  |  |
+|Robot Framework  | Ranorex |  |  |  |
+|REST Assured  | OWASP  |  |  |  |
+|Swagger  |Serenity BDD  |  |  |  |
+|  |Katalon Studio  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
+## İyi bir test & otomasyon aracının özellikleri nelerdir?
+
+- Continues Integration araçlarına entegre edilebilmeli.
+- Ücretsiz & Ücretli.
+- Komünite desteği yüksek olmalı. Ücretli araçlar için danışmanlık desteği iyi olmalı.
+- Güvenlik, tutarlılık, fonksiyonalite, ve raporlama konusunda iyi çözümleri olmalı.
+- İşletim sistemlerinden bağımsız, programlama dillerine desteği geniş olmalı.
+
+## Verimli bir workshop için neler gereklidir?
+- Haftasonu yapılmalı.
+- Saat 13:00 - 16:00 + X  saatleri arasında yapılmalı.
+- Mekan konusunda bir uzlaşma sağlayamadık. Tüm katılımcılar bu konuda araştırma yapacaklar.
+- Sektörde kült olmuş Selenium, Postman, Jmeter gibi araçların anlatımı ile başlanacak. 
+- Hayatta kalacak kadar python, java, ruby gibi dillerin eğitimleri de verilebilir.
+
+## Bonus
+Sektördeki aktif çalışanlar ile podcast yaparak, farklı konuları tartışabilmek üzerine el sıkıştık.
