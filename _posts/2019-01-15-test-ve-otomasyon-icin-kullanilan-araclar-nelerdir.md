@@ -20,7 +20,7 @@ Etkinliğe gelen ziyaretçilerin tecrübe ettiği araçları şöyle sıraladık
 |Chakram  | Selenium | Jmeter  | Appium | Jenkins  |
 |Postman  | Robot Framework  | Locust  | Espresso | Teamcity |
 |SoupUI  | Silk Central  | Gatling  | XCUITest |  |
-|Robot Framework  | Ranorex | Loading | Calabash  |  |
+|Robot Framework  | Ranorex | Loadium | Calabash  |  |
 |REST Assured  | OWASP  |  |  |  |
 |Swagger  |Serenity BDD  |  |  |  |
 |  |Katalon Studio  |  |  |  |
