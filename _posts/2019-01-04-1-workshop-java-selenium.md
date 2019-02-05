@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 1. Workshop - Java ve Selenium'a Giriş
-date: 2019-01-04
+date: 2019-02-04
 tags: [etkinlik,workshop]
 published: true
 bigimg: /img/etkinlik.jpeg
