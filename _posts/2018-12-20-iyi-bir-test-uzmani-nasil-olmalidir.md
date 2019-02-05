@@ -1,17 +1,16 @@
 ---
 layout: post
-title: İyi Bir Test Uzmanı Nasıl Olmalıdır ?
-tags: [etkinlik]
+title: 1. Workshop - Java ve Selenium'a Giriş
+tags: [workshop]
 published: true
 bigimg: /img/etkinlik.jpeg
 comments: true
 ---
 
-20 Aralık 2018 tarihinde [Apsiyon](https://www.apsiyon.com/) firmasının ev sahipliğinde, [Mehmet Serhat Özdursun](https://tr.linkedin.com/in/mehmet-serhat-%C3%B6zdursun-79435741) moderatörlüğünde gerçekleştirdiğimiz etkinliğimizde, tüm misafirlerimiz ile beraber cevabını aradığımız soru şu oldu. **İyi bir test uzmanı nasıl olmalıdır?**
+04 Şubat 2019 tarihinde [Apsiyon](https://www.apsiyon.com/) firmasının ev sahipliğinde, [Enes Aydın](https://tr.linkedin.com/in/enes-aydin-cv) yönetiminde, **Java ve Selenium** üzerine bir workshop gerçekleştirdik. 
+
+Editör(IntelliJ), jdk kurulumu, maven, junit ve sonrasında temel selenium methodlarına giriş yaptık. 
 
 ## Fotoğraflar
-![Apsiyon](https://www.softwaretestingturkey.com/img/apsiyon_1.jpeg)
+![Java & Selenium Workshop](https://www.softwaretestingturkey.com/img/2019/workshop_1_apsiyon.jpg)
 
----
-
-![Apsiyon](https://www.softwaretestingturkey.com/img/apsiyon_2.jpeg)
