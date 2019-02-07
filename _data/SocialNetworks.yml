@@ -91,7 +91,7 @@ twitch:
   baseURL: "https://www.twitch.tv/"
   icon: "fa-twitch"
 
-yelp:
-  name: "Yelp"
-  baseURL: "https://{{ site.author.yelp }}.yelp.com"
-  icon: "fa-yelp"
+slack:
+  name: "Slack"
+  baseURL: "https://{{ site.author.slack }}.slack.com"
+  icon: "fa-slack"
