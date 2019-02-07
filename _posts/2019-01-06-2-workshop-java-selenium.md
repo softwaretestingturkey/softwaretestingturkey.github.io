@@ -12,5 +12,8 @@ comments: true
 
 Bu eğitimde BaseClass dan extend ederek yeni sınıflar oluşturuldu ve driver nesnesi ile yeni testler yazmaya başlandı. HTML seçicilerinden bahsedildi, click(), sendKeys(), getText() getAttribute() gibi methodlar anlatıldı ve dropdown üzerinden bir elementi select edebilme üzerine örnekler yapıldı.
 
+## Proje Kodları
+[https://github.com/codenesaydin/seleniumtutorial](https://github.com/codenesaydin/seleniumtutorial)
+
 ## Fotoğraflar
 ![Java & Selenium Workshop](https://www.softwaretestingturkey.com/img/2019/workshop_2_apsiyon.jpg)
