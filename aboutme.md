@@ -5,4 +5,6 @@ subtitle: Amaç ve Değerler
 permalink: hakkimizda
 ---
 
-Software Testing Turkey, şirketlerin yazılım kalitesini arttıracak yetkin kişilerin gelişmesine katkı sağlamayı amaçlar. Ortak bir komunite içerisinde, sektörde aktif çalışan kişiler ile bilgi paylaşımını destekler.
+**Software Testing Turkey**, şirketlerin yazılım kalitesinin arttırılmasına katkı sağlamak için, şirketlerin test ve otomasyon ekiplerinin, teknik anlamda gelişmesine katkı sağlamak için kurulmuştur. Ayrıca ortak bir komunite içerisinde, sektörde aktif çalışan kişilerin kendi tecrübelerini, etkinlik ve atölye çalışmaları ile diğer kişiler ile paylaşmasına liderlik eder.
+
+[Mail Listesine Kayıt Ol](https://mailchi.mp/22a59235e4d4/stt)
