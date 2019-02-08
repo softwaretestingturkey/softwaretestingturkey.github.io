@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Slack Davetiye
+title: Davetiye
 subtitle: Aramıza Hoşgeldiniz
 permalink: slack-invite-success
 ---
