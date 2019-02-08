@@ -2,7 +2,7 @@
 layout: page
 title: Slack Davetiye
 subtitle: Aramıza Hoşgeldiniz
-permalink: hakkimizda
+permalink: slack-invite-success
 ---
 
 **Software Testing Turkey** slack grubuna davetiyeniz başarıyla gönderilmiştir. Lütfen e-posta adresinizi (spam klasörü dahil) kontrol ediniz.
