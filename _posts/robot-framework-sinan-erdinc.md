@@ -3,7 +3,7 @@ layout: post
 title: Webinar - Robot Framework ve Selenium ile Test Otomasyonuna Giriş
 subtitle: Popüler test ve otomasyon araçlarından Robot Framework ile ilgili bir webinar.
 permalink: /robot-framework-ile-test-otomasyonuna-giris
-date: 2019-02-14
+date: 2019-02-13
 tags: [webinar]
 published: true
 bigimg: /img/etkinlik.jpeg
