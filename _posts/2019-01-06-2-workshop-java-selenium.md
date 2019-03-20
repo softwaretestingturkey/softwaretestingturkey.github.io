@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2. Workshop - Java ve Selenium'a Giriş
+title: Workshop - Java ve Selenium'a Giriş - 2
 date: 2019-02-06
 tags: [etkinlik,workshop]
 published: true
