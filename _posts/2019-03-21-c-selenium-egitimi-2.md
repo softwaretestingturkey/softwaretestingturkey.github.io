@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Workshop - C# Selenium Kullanımı - 2
-subtitle: İlk workshop üzerinde anlatılan C# üzerinden selenium kullanabilme detayları paylaşıldı.
+subtitle: İlk workshop üzerinde anlatılan C# üzerinden selenium üzerindeki yeni methodlar paylaşıldı.
 permalink: /c-selenium-kullanimi-2
 date: 2019-03-21
 tags: [workshop]
