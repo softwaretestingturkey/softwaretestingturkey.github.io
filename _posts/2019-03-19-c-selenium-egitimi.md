@@ -17,7 +17,7 @@ comments: true
 Selenium'a başlamadan önce gerekli olan xpath ve css konularına giriş yapıldıktan sonra sonra visual studio üzerinden bir 
 selenium projesi oluşturuldu, ardından wait, click ve select konuları işlendi.
 
-Anlatılan tüm konular [https://github.com/serhatozdursun/SeleniumTutorials.git](https://github.com/serhatozdursun/SeleniumTutorials.git) adresinde paylaşılıyor.
+Anlatılan tüm konular [https://github.com/serhatozdursun/SeleniumCSharpOrnekler](https://github.com/serhatozdursun/SeleniumCSharpOrnekler) adresinde paylaşılıyor.
 
 ## Fotoğraflar
 ![C# & Selenium Workshop](https://www.softwaretestingturkey.com/img/2019/workshop_c_selenium_1.jpeg)
