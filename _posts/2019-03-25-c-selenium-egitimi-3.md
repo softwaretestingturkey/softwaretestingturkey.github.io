@@ -10,12 +10,12 @@ bigimg: /img/etkinlik.jpeg
 share-img: /img/etkinlik.jpeg
 comments: true
 ---
-25 Mart Pazartesi günü [Apsiyon](https://www.apsiyon.com/ "Apsiyon") firmasının ev sahipliğinde
+25 Mart Pazartesi günü [Apsiyon](https://www.apsiyon.com/ "Apsiyon") firmasının ev sahiplprojeiğinde
 [Mehmet Serhat Özdursun](https://tr.linkedin.com/in/mehmet-serhat-%C3%B6zdursun-79435741 "Mehmet Serhat Özdursun"), yönetiminde
 **C# üzerinden Selenium kullanımı** ile ilgili üçüncü workshop yapıldı. 
 
 Bu workshop içerisinde selenium yazarken kullanılan en popüler pratiklerden biri olan Page Object Model (POM) yapısı hakkında
-bilgiler verildi ve proje POM üzerine bir senaryo yazılmaya başlandı. (Aliexpress facebook register ve login) Bir sonraki
+bilgiler verildi ve POM üzerinde bir senaryo yazılmaya başlandı. (Aliexpress facebook register ve login) Bir sonraki
 workshop üzerinde bu senaryolar POM üzerinde tamamlanmış olacak.
 
 Anlatılan tüm konulara [https://github.com/serhatozdursun/SeleniumCSharpOrnekler](https://github.com/serhatozdursun/SeleniumCSharpOrnekler ) üzerinden ulaşabilirsiniz.
