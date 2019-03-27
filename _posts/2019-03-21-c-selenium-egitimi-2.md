@@ -17,7 +17,7 @@ comments: true
 Bu workshop içerisinde selenium üzerinde çok sık kullandığımız alertbox, confirmbox, datatable, getattribute, moveElement, multipleSelect, openNewTab, openNewWindow 
 methodlarının kullanımı ile ilgili örnekler yapıldı.
 
-Anlatılan tüm konulara [https://github.com/serhatozdursun/SeleniumTutorials.git](https://github.com/serhatozdursun/SeleniumTutorials.git) üzerinden ulaşabilirsiniz.
+Anlatılan tüm konulara [https://github.com/serhatozdursun/SeleniumCSharpOrnekler](https://github.com/serhatozdursun/SeleniumCSharpOrnekler ) üzerinden ulaşabilirsiniz.
 
 ## Fotoğraflar
 ![C# & Selenium Workshop 2](https://www.softwaretestingturkey.com/img/2019/workshop_2_c_selenium_1.jpeg)
