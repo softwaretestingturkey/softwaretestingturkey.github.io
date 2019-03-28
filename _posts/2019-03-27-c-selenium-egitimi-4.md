@@ -10,13 +10,13 @@ bigimg: /img/etkinlik.jpeg
 share-img: /img/etkinlik.jpeg
 comments: true
 ---
-27 Mart Çarşamba günü [Apsiyon](https://www.apsiyon.com/ "Apsiyon") firmasının ev sahiplprojeiğinde
+27 Mart Çarşamba günü [Apsiyon](https://www.apsiyon.com/ "Apsiyon") firmasının ev sahipliğinde 
 [Mehmet Serhat Özdursun](https://tr.linkedin.com/in/mehmet-serhat-%C3%B6zdursun-79435741 "Mehmet Serhat Özdursun"), yönetiminde
 **C# üzerinden Selenium kullanımı** ile ilgili dördüncü ve son workshop yapıldı. 
 
 Bu son workshop içerisinde artık gerçek test senaryoları yapılmaya başlandı. Bir e-ticaret sitesi üzerinden (Aliexpress) 
 facebook ile login olduktan sonra sitede ürün aratma, ardından bulunan ürün sayısı ile sayfada verilen sonuç sayısını 
-kıyaslama ile ilgili test hazırlandı.
+kıyaslama ile ilgili testler hazırlandı.
 
 Anlatılan tüm konulara [https://github.com/serhatozdursun/SeleniumCSharpOrnekler](https://github.com/serhatozdursun/SeleniumCSharpOrnekler ) üzerinden ulaşabilirsiniz.
 
