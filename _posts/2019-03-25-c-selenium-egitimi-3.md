@@ -10,7 +10,7 @@ bigimg: /img/etkinlik.jpeg
 share-img: /img/etkinlik.jpeg
 comments: true
 ---
-25 Mart Pazartesi günü [Apsiyon](https://www.apsiyon.com/ "Apsiyon") firmasının ev sahiplprojeiğinde
+25 Mart Pazartesi günü [Apsiyon](https://www.apsiyon.com/ "Apsiyon") firmasının ev sahipliğinde
 [Mehmet Serhat Özdursun](https://tr.linkedin.com/in/mehmet-serhat-%C3%B6zdursun-79435741 "Mehmet Serhat Özdursun"), yönetiminde
 **C# üzerinden Selenium kullanımı** ile ilgili üçüncü workshop yapıldı. 
 
